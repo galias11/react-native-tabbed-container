@@ -7,7 +7,7 @@ Simple RN tabbed view container. This is a fully customizable tabbed container t
 No third party or native installation is required. Just run:
 
 ```
-npm install --save react-native-tabbed-container
+npm install --save react_native_tabbed_container
 ```
 
 ## Usage
@@ -35,7 +35,7 @@ Define a container to wrap the tabbed view container. This componen will aumatic
 // @Vendors
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import TabbedContainer from 'react-native-tabbed-container';
+import TabbedContainer from 'react_native_tabbed_container';
 
 // @Base styles 
 import { fontSize, colors, padding, rowHeight } from './src/styles/baseStyles';
