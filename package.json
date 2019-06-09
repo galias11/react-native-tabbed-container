@@ -1,7 +1,7 @@
 {
   "name": "react_native_tabbed_container",
   "main": "src/index.js",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": false,
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
@@ -34,6 +34,13 @@
     "metro-react-native-babel-preset": "^0.54.1",
     "react-test-renderer": "16.8.3"
   },
+  "keywords": [
+    "react-native",
+    "tab-view",
+    "tab-container",
+    "tabbed-view",
+    "tabbed-container"
+  ],
   "jest": {
     "preset": "react-native"
   }
