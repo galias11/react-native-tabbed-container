@@ -147,6 +147,8 @@ const styles = StyleSheet.create({
 
 This will result in:
 
-![Android](https://github.com/galias11/react-native-tabbed-container/raw/master/scr-android.png "Android screen shot")
-![IOS](https://github.com/galias11/react-native-tabbed-container/raw/master/scr-ios.png "IOS screen shot")
+<div style="display: inline;">
+  <img src="https://github.com/galias11/react-native-tabbed-container/raw/master/scr-android.png" width="320" height="640" alt="android">
 
+  <img src="https://github.com/galias11/react-native-tabbed-container/raw/master/scr-ios.png" width="320" height="640" alt="ios">
+</div>
